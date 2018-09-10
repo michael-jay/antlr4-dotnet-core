@@ -130,6 +130,6 @@ ClientBin/
 
 # ANTLR4 Visual Studio Code
 .antlr/
-grammar/java
-grammar/csharp
+**/grammar/java
+**/grammar/csharp
 
